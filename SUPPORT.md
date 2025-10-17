@@ -6,8 +6,8 @@ Thank you for using Stem Checker! We're here to help if you run into any issues.
 
 The best way to get help, report a bug, or request a feature is by opening an issue on our main GitHub repository. If you are unable to do so, you can also reach out via email.
 
--   **GitHub Issues (Recommended):** [Link to your main app repository]
--   **Email:** [Your support email address]
+
+-   **Email:** jamesryanwilco@gmail.com
 
 ## Frequently Asked Questions (FAQ)
 
